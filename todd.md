@@ -1,1 +1,0 @@
-in ur computer eatin ur ram
