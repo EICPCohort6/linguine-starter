@@ -4,7 +4,7 @@ Welcome to Team Linguine!
 
 =======
 
-Todd Oliver
+[Todd Oliver](todd.md)
 David Belorian
 Patrick McGonagle'
 Frederick Anim-Amofa
