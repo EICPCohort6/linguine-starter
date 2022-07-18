@@ -2,7 +2,10 @@
 
 Welcome to Team Linguine!
 
+=======
+
 Todd Oliver
 David Belorian
-Patrick McGonagle
-Alexandra Brandl
+Patrick McGonagle'
+Frederick Anim-Amofa
+Alexandra Brandl 
